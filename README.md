@@ -2,8 +2,8 @@
 This is just a test 
 
 ## Smaller Heading
-** This is Bold **
+**This is Bold**
 ### Smaller Heading 
-* * italic * *
+* *italic* *
  
 ~~Bug 39 Video player not working~~
